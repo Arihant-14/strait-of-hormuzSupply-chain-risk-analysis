@@ -1,4 +1,5 @@
-Strait of Hormuz Supply Chain Risk Analysis
+#Strait of Hormuz Supply Chain Risk Analysis
+
 🔍 Project Overview
 This project analyzes the strategic importance and associated risks of the Strait of Hormuz in global energy supply chains. Given the geopolitical volatility of the region, the study identifies potential supply chain disruptions and proposes viable alternative trade routes to ensure energy security and logistical resilience.
 
